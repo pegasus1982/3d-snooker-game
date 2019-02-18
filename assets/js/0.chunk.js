@@ -5672,7 +5672,7 @@
                                 }, n.prototype.bindTransformFeedbackBuffer = function(e) {
                                     this._gl.bindBufferBase(this._gl.TRANSFORM_FEEDBACK_BUFFER, 0, e)
                                 }, n.prototype._loadFile = function(t, i, r, n, o, s) {
-                                    console.log('load file',t,i,r,n,o,s)
+                                    // console.log('load file',t,i,r,n,o,s)
                                     var a = this,
                                         l = e.Tools.LoadFile(t, i, r, n, o, s);
                                     return this._activeRequests.push(l), l.onCompleteObservable.add(function(e) {

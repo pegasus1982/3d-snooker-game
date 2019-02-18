@@ -6504,7 +6504,8 @@
         }), t.exports = n
     }, function(t, e, i) {
         const s = Object.create(null);
-        s.rgb = "http://cdn.heyzxz.me/pcol_1_0_0/", s.shaders = "http://cdn.heyzxz.me/pcol_1_0_0/", t.exports = s
+        // s.rgb = "http://cdn.heyzxz.me/pcol_1_0_0/", s.shaders = "http://cdn.heyzxz.me/pcol_1_0_0/", t.exports = s
+        s.rgb = "assets/models/", s.shaders = "assets/models/", t.exports = s
     }, function(t, e) {
         const i = Object.create(null);
         i.FIRST_KISS = "fk", i.OUT_OF_BOUNDS = "oob", i.POTTED = "ptd", i.PREPOT = "ppt", t.exports = i
@@ -8351,11 +8352,14 @@
     }, function(t, e) {
         t.exports = '<section class="difficulty-item clickable-section">\n\t<div class="ai-name label-div-420"></div>\n\t<div class="diff-label">\n\t\t<div class="diff-dots"></div>\n\t\t<h3 class="diff-desp"></h3>\n\t</div>\n</section>\n'
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/1d7af82a4bcfa1d965e85bf46a90bb29.jpg"
+        // t.exports = i.p + "pcol_1_0_0/1d7af82a4bcfa1d965e85bf46a90bb29.jpg"
+        t.exports = "assets/models/1d7af82a4bcfa1d965e85bf46a90bb29.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/fea245db64f3c20d58337e086797b65a.png"
+        // t.exports = i.p + "pcol_1_0_0/fea245db64f3c20d58337e086797b65a.png"
+        t.exports = "assets/models/fea245db64f3c20d58337e086797b65a.png"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/3427c4cbb59a2e2ab0efe1f0ecc91863.babylon"
+        // t.exports = i.p + "pcol_1_0_0/3427c4cbb59a2e2ab0efe1f0ecc91863.babylon"
+        t.exports = "assets/models/3427c4cbb59a2e2ab0efe1f0ecc91863.babylon"
     }, function(t, e, i) {
         // t.exports = i.p + "pcol_1_0_0/1a2152a3740bde223ab5523cc9458021.png"
         t.exports = "assets/models/1a2152a3740bde223ab5523cc9458021.png"
@@ -8364,7 +8368,7 @@
         t.exports = "assets/models/50bfb6586540c6eca915efab8949b3fc.jpg"
     }, function(t, e, i) {
         // t.exports = i.p + "pcol_1_0_0/413ac7b2bf52ce05e45f4f6d8497a651.babylon"
-        t.exports = "./assets/models/413ac7b2bf52ce05e45f4f6d8497a651.babylon"
+        t.exports = "assets/models/413ac7b2bf52ce05e45f4f6d8497a651.babylon"
     }, function(t, e, i) {
         // t.exports = i.p + "pcol_1_0_0/0b8abbd09ae011d71d4558e0d30e0c85.png"
         t.exports = "assets/models/0b8abbd09ae011d71d4558e0d30e0c85.png"
