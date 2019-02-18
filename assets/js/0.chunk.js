@@ -161,7 +161,10 @@
                                     })
                                 }, t.prototype._loadVertexShader = function(i, r) {
                                     var n;
-                                    e.Tools.IsWindowObjectExist() && i instanceof HTMLElement ? r(e.Tools.GetDOMTextContent(i)) : "base64:" !== i.substr(0, 7) ? t.ShadersStore[i + "VertexShader"] ? r(t.ShadersStore[i + "VertexShader"]) : (n = "." === i[0] || "/" === i[0] || i.indexOf("http") > -1 ? i : e.Engine.ShadersRepository + i, this._engine._loadFile(n + ".vertex.fx", r)) : r(window.atob(i.substr(7)))
+                                    e.Tools.IsWindowObjectExist() && i instanceof HTMLElement ? r(e.Tools.GetDOMTextContent(i)) : "base64:" !== i.substr(0, 7) ? t.ShadersStore[i + "VertexShader"] ? r(t.ShadersStore[i + "VertexShader"]) : (
+                                            n = "." === i[0] || "/" === i[0] || i.indexOf("http") > -1 ? i : e.Engine.ShadersRepository + i,
+                                            this._engine._loadFile(n + ".vertex.fx", r)
+                                        ) : r(window.atob(i.substr(7)))
                                 }, t.prototype._loadFragmentShader = function(i, r) {
                                     var n;
                                     e.Tools.IsWindowObjectExist() && i instanceof HTMLElement ? r(e.Tools.GetDOMTextContent(i)) : "base64:" !== i.substr(0, 7) ? t.ShadersStore[i + "PixelShader"] ? r(t.ShadersStore[i + "PixelShader"]) : t.ShadersStore[i + "FragmentShader"] ? r(t.ShadersStore[i + "FragmentShader"]) : (n = "." === i[0] || "/" === i[0] || i.indexOf("http") > -1 ? i : e.Engine.ShadersRepository + i, this._engine._loadFile(n + ".fragment.fx", r)) : r(window.atob(i.substr(7)))
@@ -5669,6 +5672,7 @@
                                 }, n.prototype.bindTransformFeedbackBuffer = function(e) {
                                     this._gl.bindBufferBase(this._gl.TRANSFORM_FEEDBACK_BUFFER, 0, e)
                                 }, n.prototype._loadFile = function(t, i, r, n, o, s) {
+                                    console.log('load file',t,i,r,n,o,s)
                                     var a = this,
                                         l = e.Tools.LoadFile(t, i, r, n, o, s);
                                     return this._activeRequests.push(l), l.onCompleteObservable.add(function(e) {

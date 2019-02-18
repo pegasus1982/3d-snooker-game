@@ -8357,41 +8357,59 @@
     }, function(t, e, i) {
         t.exports = i.p + "pcol_1_0_0/3427c4cbb59a2e2ab0efe1f0ecc91863.babylon"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/1a2152a3740bde223ab5523cc9458021.png"
+        // t.exports = i.p + "pcol_1_0_0/1a2152a3740bde223ab5523cc9458021.png"
+        t.exports = "assets/models/1a2152a3740bde223ab5523cc9458021.png"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/50bfb6586540c6eca915efab8949b3fc.jpg"
+        // t.exports = i.p + "pcol_1_0_0/50bfb6586540c6eca915efab8949b3fc.jpg"
+        t.exports = "assets/models/50bfb6586540c6eca915efab8949b3fc.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/413ac7b2bf52ce05e45f4f6d8497a651.babylon"
+        // t.exports = i.p + "pcol_1_0_0/413ac7b2bf52ce05e45f4f6d8497a651.babylon"
+        t.exports = "./assets/models/413ac7b2bf52ce05e45f4f6d8497a651.babylon"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/0b8abbd09ae011d71d4558e0d30e0c85.png"
+        // t.exports = i.p + "pcol_1_0_0/0b8abbd09ae011d71d4558e0d30e0c85.png"
+        t.exports = "assets/models/0b8abbd09ae011d71d4558e0d30e0c85.png"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/fab6def1bc4a56974cd45ffc0be44b25.jpg"
+        // t.exports = i.p + "pcol_1_0_0/fab6def1bc4a56974cd45ffc0be44b25.jpg"
+        t.exports = "assets/models/fab6def1bc4a56974cd45ffc0be44b25.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/912c4020723463fc80e708a4ed8356cf.jpg"
+        // t.exports = i.p + "pcol_1_0_0/912c4020723463fc80e708a4ed8356cf.jpg"
+        t.exports = "assets/models/912c4020723463fc80e708a4ed8356cf.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/49d071e163c3ec19a212dd057dad38a1.hdr"
+        // t.exports = i.p + "pcol_1_0_0/49d071e163c3ec19a212dd057dad38a1.hdr"
+        t.exports = "assets/models/49d071e163c3ec19a212dd057dad38a1.hdr"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/d6e4cbeb6e1babc3e26cb444422bed49.png"
+        // t.exports = i.p + "pcol_1_0_0/d6e4cbeb6e1babc3e26cb444422bed49.png"
+        t.exports = "assets/models/d6e4cbeb6e1babc3e26cb444422bed49.png"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/5401661d949732feeeb754ef7f93f5be.jpg"
+        // t.exports = i.p + "pcol_1_0_0/5401661d949732feeeb754ef7f93f5be.jpg"
+        t.exports = "assets/models/5401661d949732feeeb754ef7f93f5be.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/f04dbae40e7d593c7914bf51880dfe87.jpg"
+        // t.exports = i.p + "pcol_1_0_0/f04dbae40e7d593c7914bf51880dfe87.jpg"
+        t.exports = "assets/models/f04dbae40e7d593c7914bf51880dfe87.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/19cfc57b94b49b3ebac00319a7b7a0f0.hdr"
+        // t.exports = i.p + "pcol_1_0_0/19cfc57b94b49b3ebac00319a7b7a0f0.hdr"
+        t.exports = "assets/models/19cfc57b94b49b3ebac00319a7b7a0f0.hdr"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/819e348970711b27f3ad5f5ffeeac62e.hdr"
+        // t.exports = i.p + "pcol_1_0_0/819e348970711b27f3ad5f5ffeeac62e.hdr"
+        t.exports = "assets/models/819e348970711b27f3ad5f5ffeeac62e.hdr"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/154a31248c69da93379562cbf6763238.jpg"
+        // t.exports = i.p + "pcol_1_0_0/154a31248c69da93379562cbf6763238.jpg"
+        t.exports = "assets/models/154a31248c69da93379562cbf6763238.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/1d6ef5b7e6c568c14684b0458ea0f5f4.png"
+        // t.exports = i.p + "pcol_1_0_0/1d6ef5b7e6c568c14684b0458ea0f5f4.png"
+        t.exports = "assets/models/1d6ef5b7e6c568c14684b0458ea0f5f4.png"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/d9ffaafe595fd0df1c3eb7f32b7ece5a.jpg"
+        // t.exports = i.p + "pcol_1_0_0/d9ffaafe595fd0df1c3eb7f32b7ece5a.jpg"
+        t.exports = "assets/models/d9ffaafe595fd0df1c3eb7f32b7ece5a.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/dbbde6970d29f635825a2403197b8699.jpg"
+        // t.exports = i.p + "pcol_1_0_0/dbbde6970d29f635825a2403197b8699.jpg"
+        t.exports = "assets/models/dbbde6970d29f635825a2403197b8699.jpg"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/b5198a9d33ee6ddd70a2b62c32cbc866.hdr"
+        // t.exports = i.p + "pcol_1_0_0/b5198a9d33ee6ddd70a2b62c32cbc866.hdr"
+        t.exports = "assets/models/b5198a9d33ee6ddd70a2b62c32cbc866.hdr"
     }, function(t, e, i) {
-        t.exports = i.p + "pcol_1_0_0/bccbcdf0859ab8fd3ba7f7adac09c284.png"
+        // t.exports = i.p + "pcol_1_0_0/bccbcdf0859ab8fd3ba7f7adac09c284.png"
+        t.exports = "assets/models/bccbcdf0859ab8fd3ba7f7adac09c284.png"
     }, function(t, e, i) {
         const s = i(11);
         var n, r = this && this.__extends || (n = Object.setPrototypeOf || {
