@@ -1,29 +1,29 @@
 @font-face {
     font-family: Open Sans;
     src: url(../fonts/7ce00256097ccf0d2c0641fce8a96e57.eot);
-    /* src:url(../fonts/7ce00256097ccf0d2c0641fce8a96e57.eot?#iefix) format("embedded-opentype"),
+    src:url(../fonts/7ce00256097ccf0d2c0641fce8a96e57.eot?#iefix) format("embedded-opentype"),
         url(../fonts/9015e788e127487984ded77dd0bac1a8.woff2) format("woff2"),
         url(../fonts/ce3b96ab2b51255e60d2d1aae633dae3.woff) format("woff"),
         url(../fonts/a88748791c366be26c9bdf959d583d3f.ttf) format("truetype"),
-        url(http://cdn.heyzxz.me/pcol_1_0_0/9f6cbb23fff05a957bdf1a770a398644.svg#OpenSans-Regular) format("svg") */
+        url(../fonts/9f6cbb23fff05a957bdf1a770a398644.svg#OpenSans-Regular) format("svg")
 }
 @font-face{
     font-family:Saira ExtraCondensed ExCond;
     src:url(../fonts/ce2af0abf8b75bf6158c85631595b617.eot);
-    /* src:url(http://cdn.heyzxz.me/pcol_1_0_0/ce2af0abf8b75bf6158c85631595b617.eot?#iefix) format("embedded-opentype"),
-        url(http://cdn.heyzxz.me/pcol_1_0_0/b95c6631886fb0bdbe29a27af7fdd4cd.woff2) format("woff2"),
-        url(http://cdn.heyzxz.me/pcol_1_0_0/4aa9c46c9e05cd604db6b101017a8e68.woff) format("woff"),
-        url(http://cdn.heyzxz.me/pcol_1_0_0/7b6d5b9069bc3bf01daa9e92b8be8204.ttf) format("truetype"),
-        url(http://cdn.heyzxz.me/pcol_1_0_0/03d23c55623e6d9695455b64e626cd3c.svg#SairaExtraCondensed-Bold) format("svg") */
+    src:url(../fonts/ce2af0abf8b75bf6158c85631595b617.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/b95c6631886fb0bdbe29a27af7fdd4cd.woff2) format("woff2"),
+        url(../fonts/4aa9c46c9e05cd604db6b101017a8e68.woff) format("woff"),
+        url(../fonts/7b6d5b9069bc3bf01daa9e92b8be8204.ttf) format("truetype"),
+        url(../fonts/03d23c55623e6d9695455b64e626cd3c.svg#SairaExtraCondensed-Bold) format("svg")
 }
 @font-face{
     font-family:Saira ExtraCondensed;
     src:url(../fonts/7d4e3834fece222609998dc85373431c.eot);
-    /* src:url(http://cdn.heyzxz.me/pcol_1_0_0/7d4e3834fece222609998dc85373431c.eot?#iefix) format("embedded-opentype"),
-    url(http://cdn.heyzxz.me/pcol_1_0_0/dc91752b541a41f86c5cd588195a6e7b.woff2) format("woff2"),
-    url(http://cdn.heyzxz.me/pcol_1_0_0/855a855dc11807208be448e1ba95dde0.woff) format("woff"),
-    url(http://cdn.heyzxz.me/pcol_1_0_0/76d6f505c99a8c4332a09785d278b9ea.ttf) format("truetype"),
-    url(http://cdn.heyzxz.me/pcol_1_0_0/e27dc4c3e6790d75a949d0b743b7457b.svg#SairaExtraCondensed-SemiBold) format("svg") */
+    src:url(../fonts/7d4e3834fece222609998dc85373431c.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/dc91752b541a41f86c5cd588195a6e7b.woff2) format("woff2"),
+    url(../fonts/855a855dc11807208be448e1ba95dde0.woff) format("woff"),
+    url(../fonts/76d6f505c99a8c4332a09785d278b9ea.ttf) format("truetype"),
+    url(../fonts/e27dc4c3e6790d75a949d0b743b7457b.svg#SairaExtraCondensed-SemiBold) format("svg")
 }
 html {
     background: #000;
