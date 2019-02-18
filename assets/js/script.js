@@ -31,7 +31,8 @@
                 var s, a = document.getElementsByTagName("head")[0],
                     l = document.createElement("script");
                 l.charset = "utf-8", l.timeout = 120, i.nc && l.setAttribute("nonce", i.nc), l.src = function(e) {
-                    return i.p + "pcol_1_0_0/" + ({} [e] || e) + ".chunk.js"
+                    // return i.p + "pcol_1_0_0/" + ({} [e] || e) + ".chunk.js"
+                    return "./assets/js/" + ({} [e] || e) + ".chunk.js";
                 }(e), s = function(n) {
                     l.onerror = l.onload = null, clearTimeout(d);
                     var o = r[e];
