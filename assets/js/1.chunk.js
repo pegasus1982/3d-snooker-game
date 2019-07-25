@@ -8348,7 +8348,7 @@
             }
         }
     }, function(t, e) {
-        t.exports = '<section>\n\t<div>CREATED BY</div>\n\t<div class="author">\n\t\t<a class="name" href="http://www.heyzxz.me" target="_blank">ZHENGXI ZHANG</a>\n\t</div>\n\t<div class="label-value-v">\n\t\t<div class="label">THIS GAME IS POWERED BY</div>\n\t\t<div class="value logo-container">\n\t\t\t<a href="https://www.babylonjs.com/" target="_blank"><div class="bjs-logo"></div></a>\n\t\t</div>\n\t</div>\n\t<p class="para-copy">FOR MORE INFORMATIONS AND BUG REPORT, PLEASE <a href="https://github.com/heyzxz/all-about-pcol" target="_blank">SEE HERE.</a></p>\n</section>\n'
+        t.exports = '<section>\n\t<div>CREATED BY</div>\n\t<div class="author">\n\t\t<a class="name" href="http://www.heyzxz.me" target="_blank">pegasus1982</a>\n\t</div>\n\t<div class="label-value-v">\n\t\t<div class="label">THIS GAME IS POWERED BY</div>\n\t\t<div class="value logo-container">\n\t\t\t<a href="https://www.babylonjs.com/" target="_blank"><div class="bjs-logo"></div></a>\n\t\t</div>\n\t</div>\n\t<p class="para-copy">FOR MORE INFORMATIONS AND BUG REPORT, PLEASE <a href="https://github.com/heyzxz/all-about-pcol" target="_blank">SEE HERE.</a></p>\n</section>\n'
     }, function(t, e) {
         t.exports = '<section class="difficulty-item clickable-section">\n\t<div class="ai-name label-div-420"></div>\n\t<div class="diff-label">\n\t\t<div class="diff-dots"></div>\n\t\t<h3 class="diff-desp"></h3>\n\t</div>\n</section>\n'
     }, function(t, e, i) {
